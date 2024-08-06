@@ -33,9 +33,7 @@ project "glfw"
 
 	filter "system:linux"
 		pic "on"
-
 		systemversion "latest"
-		staticruntime "on"
 
 		files
 		{
